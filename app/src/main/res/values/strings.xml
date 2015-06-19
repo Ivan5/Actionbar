@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Actionbar</string>
+
+    <string name="hello_world">Este es un ejemplo con un actionbar @Ivanciito_jf</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_buscar">Buscar</string>
+    <string name="action_nuevo">Nuevo</string>
+    <string name="prueba">Escribe sobre mi</string>
+    <string name="checkbox">Opcion</string>
+</resources>
